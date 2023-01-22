@@ -42,3 +42,13 @@ copyright = 't24 LLC'
   name = "Code of Conduct"
   url = "/code-of-conduct/"
   weight = 20
+
+[[menu.main]]
+  name = "Spaces"
+  weight = 100
+
+[[menu.main]]
+  name = "Social Space (Mastodon)"
+  url = "https://social.pawsitiv.space/"
+  parent = "Spaces"
+  weight = 110
