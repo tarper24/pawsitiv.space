@@ -15,4 +15,3 @@ This website will hold important community information, like our [Code of Conduc
 Check out our community spaces:
 
 * Pawsitiv's [Social Space](https://social.pawsitiv.space "https://social.pawsitiv.space"), powered by Mastodon
-* [Social Pawsitiv Space](https://social.pawsitiv.space "https://social.pawsitiv.space"), powered by Mastodon
