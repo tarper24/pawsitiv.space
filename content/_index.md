@@ -8,7 +8,7 @@ aliases:
   - "/about/"
 ---
 
-This website will hold important community information, like our [Code of Conduct](./code-of-conduct), and our {{<cat-link Announcements>}}.
+This website will hold important community information, like our [Code of Conduct]({{<ref "code-of-conduct">}}), and our [Announcements]({{<ref "categories/Announcements">}}).
 
 ---
 

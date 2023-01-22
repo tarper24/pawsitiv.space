@@ -1,3 +1,0 @@
-{{ $cat_name := index .Params 0 }}
-{{ $cat := ($.Site.GetPage (printf "/categories/%s" $cat_name )) }}
-<a href="{{ $cat.Permalink }}">{{ $cat_name }}</a>
