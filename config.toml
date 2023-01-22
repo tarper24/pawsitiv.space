@@ -23,10 +23,15 @@ copyright = 't24 LLC'
 [params.paige]
   hide_theme_comment = true
 
-[params.paige.social.mastodon]
+[params.paige.social.1mastodon]
   icon = "mastodon"
   link = "https://social.pawsitiv.space/"
   name = "Social Space (Mastodon)"
+
+[params.paige.social.2github]
+  icon = "github"
+  link = "https://github.com/tarper24/pawsitiv.space"
+  name = "Website Source Code (GitHub)"
 
 [[menu.main]]
   name = "Home"
