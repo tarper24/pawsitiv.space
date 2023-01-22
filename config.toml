@@ -1,0 +1,44 @@
+baseURL = 'https://pawsitiv.space/'
+languageCode = 'en-us'
+title = 'Pawsitiv Space'
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+copyright = 't24 LLC'
+
+[permalinks]
+  posts = '/posts/:year/:month/:day/:slug/'
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+
+[module]
+[[module.imports]]
+  path = "github.com/tarper24/paige"
+
+[params]
+  date_format = "2006-01-02"
+
+[params.paige]
+  hide_theme_comment = true
+
+[params.paige.social.mastodon]
+  icon = "mastodon"
+  link = "https://social.pawsitiv.space/"
+  name = "Social Space (Mastodon)"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -110
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "Code of Conduct"
+  url = "/code-of-conduct/"
+  weight = 20
