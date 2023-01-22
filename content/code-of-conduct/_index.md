@@ -34,7 +34,7 @@ Content and behavior that is not in line with the goals and standards of the Com
 
 * **Harassment or bullying**, including but not limited to dogpiling; brigading; language or behavior that is threatening, intimidating, or causes harm or fear; or sharing personal information (doxing) or sexually explicit content of others (sometimes known as revenge porn) without consent.
 * **Hate speech or hateful conduct**, including but not limited to language or behavior that is racist; sexist; homophobic; transphobic; or targets an individual or group based on their religion, nationality, or any other personal characteristic.
-* **Violent extremism**, including but not limited to promoting, or glorifying to commit acts of terrorism, violence, hate crimes, or the perpetrators thereof.
+* **Violent extremism**, including but not limited to promoting, or glorifying acts of terrorism, violence, hate crimes, or the perpetrators thereof.
 * **Condescending, oppressive, or otherwise demeaning language or behavior** towards any individual or group.
 * **Content illegal in the United States of America**
 * **Child exploitation**, including but not limited to the sharing, distributing, or creating of any content that sexually exploits or depicts children in a pornographic, sexually suggestive or violent manner. This includes but is not limited to photographs, videos, and illustrations (such as lolicon, shotacon, or cub). Any Member found to be engaging in this behavior will be subject to immediate and permanent banning from the Community. The Team reports illegal content and conduct to the National Center for Missing and Exploited Children.
