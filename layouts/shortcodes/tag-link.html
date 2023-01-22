@@ -1,0 +1,3 @@
+{{ $tag_name := index .Params 0 }}
+{{ $tag := ($.Site.GetPage (printf "/tags/%s" $tag_name )) }}
+<a href="{{ $tag.Permalink }}">#{{ $tag_name }}</a>
