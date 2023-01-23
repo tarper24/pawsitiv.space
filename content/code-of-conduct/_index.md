@@ -50,7 +50,7 @@ Content and behavior that is not in line with the goals and standards of the Com
 Content that may be potentially controversial or offensive may be allowed within certain Community spaces if additional rules regarding this content are followed within the space. The Team reserves the right to take action against any content that they determine is harmful to the Community or in violation of the additional rules within Community spaces. Restricted Content includes but is not limited to:
 
 * Current Events
-* Graphic violence or gore
+* Graphic violence and gore
 * Sexual content/nudity
 * Politics
 * Religion
@@ -58,6 +58,7 @@ Content that may be potentially controversial or offensive may be allowed within
 * Drug/alcohol use
 * Content spoilers (e.g. recent movies and TV shows)
 * Flashing content that may induce epileptic symptoms or seizures
+* Ranting and venting
 * AI generated content
 
 ## Reporting Violations
