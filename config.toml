@@ -49,6 +49,11 @@ copyright = 't24 LLC'
   weight = 20
 
 [[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 30
+
+[[menu.main]]
   name = "Spaces"
   weight = 100
 
