@@ -38,7 +38,7 @@ Come check us out and see for yourself!
 
 Currently, our community is hosting an instance of Mastodon Glitch Edition in the Fediverse.
 
-Join us there by visiting our [Social Space](https://social.pawsitiv.space) and introducing yourself to the community!
+Join us there by visiting Pawsitiv Space's [Social Space](https://social.pawsitiv.space) and introducing yourself to the community!
 
 ---
 
@@ -46,4 +46,4 @@ You can currently use up to 500 characters in your posts, but we're open to incr
 You also get plenty of control over how your posts are displayed.
 You can read more on the [about page](https://social.pawsitiv.space/about), or in our guide on [Mastodon Glitch Edition]({{<ref "posts/understanding-and-using-mastodon">}}).
 
-We do have additional guidelines for our Social Space regarding restricted content, crossposting, multiple accounts, and more. You can read more on that on our Social Space's [about page](https://social.pawsitiv.space/about/more).
+We do have additional guidelines for Pawsitiv's Social Space regarding restricted content, crossposting, multiple accounts, and more. You can read more on that on our Social Space's [about page](https://social.pawsitiv.space/about/more).
