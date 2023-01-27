@@ -6,6 +6,7 @@ link: false
 keywords: []
 tags: ["Mastodon", "Glitch", "Social"]
 title: "Understanding and Using Mastodon Glitch Edition"
+show_lastmod: true
 paige:
   toc: true
 ---
@@ -149,7 +150,8 @@ You can also access Pawsitiv's Social Space from your desktop with the following
 #### iOS
 
 * [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) (Official app) - free
+* [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - free
 * [iMast](https://apps.apple.com/us/app/imast/id1229461703) - free
 * [Mast](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - paid
-* [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) - paid
+* [Toot!](https://apps.apple.com/app/toot/id1229021451?ls=1) - paid
 * and many more!
