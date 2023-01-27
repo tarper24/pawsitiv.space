@@ -2,7 +2,6 @@
 categories: ["Announcements"]
 date: 2023-01-24T06:00:00-06:00
 description: "Welcome to Pawsitiv Space. We hope you enjoy your stay"
-draft: true
 link: false
 keywords: ["Greeting"]
 tags: ["Welcome", "Important"]
