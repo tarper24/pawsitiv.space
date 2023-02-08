@@ -8,6 +8,10 @@ aliases:
   - "/about/"
 ---
 
+{{<alert>}}
+Register on our Mastodon instance at: <a href="https://social.pawsitiv.space/auth/sign_up">https://social.pawsitiv.space/auth/sign_up</a>
+{{</alert>}}
+
 This website will hold important community information, like our [Code of Conduct]({{<ref "code-of-conduct">}}), [Announcements]({{<ref "categories/Announcements">}}), and [DMCA Information]({{<ref "dmca">}}).
 
 ---
