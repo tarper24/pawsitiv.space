@@ -1,14 +1,21 @@
 ---
-categories: ["Help"]
+categories:
+  - Help
 date: 2023-01-27T00:00:00-06:00
 description: ""
 link: false
 keywords: []
-tags: ["Mastodon", "Glitch", "Social"]
-title: "Understanding and Using Mastodon Glitch Edition"
+tags:
+  - Mastodon
+  - Glitch
+  - Social
+title: Understanding and Using Mastodon Glitch Edition
 show_lastmod: true
 paige:
   toc: true
+slug: understanding-mastodon-glitch-edition
+aliases:
+  - /posts/2023/01/27/understanding-and-using-mastodon-glitch-edition/
 ---
 
 Currently, Pawsitiv Space's [Social Space](https://social.pawsitiv.space) is running the "glitch-soc" fork of the Mastodon server, also known as Mastodon Glitch Edition.

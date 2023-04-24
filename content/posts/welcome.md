@@ -1,11 +1,22 @@
 ---
-categories: ["Announcements"]
+categories:
+  - Announcements
 date: 2023-01-24T06:00:00-06:00
-description: "Welcome to Pawsitiv Space. We hope you enjoy your stay"
+description: Welcome to Pawsitiv Space. We hope you enjoy your stay
+draft: false
 link: false
-keywords: ["Greeting"]
-tags: ["Welcome", "Important"]
-title: "Welcome to Pawsitiv Space"
+keywords:
+  - Pawsitiv Space
+  - Welcome
+  - Mastodon
+  - Social Space
+tags:
+  - Welcome
+  - Important
+title: Welcome to Pawsitiv Space
+slug: welcome-pawsitiv-space
+aliases:
+  - /posts/2023/01/24/welcome-to-pawsitiv-space/
 ---
 
 Welcome to the Pawsitiv Space Community!
