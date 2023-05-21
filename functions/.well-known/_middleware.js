@@ -1,5 +1,9 @@
 export async function onRequest(context) {
     const url = new URL(context.request.url);
+    if (url.hostname != 'pawsitiv.space') {
+        return context.next()
+    }
+
     try {
         url.hostname = 'social.pawsitiv.space';
 
