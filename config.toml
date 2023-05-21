@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Pawsitiv Space'
 enableRobotsTXT = true
 enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 copyright = 't24 LLC'
 
 [permalinks]

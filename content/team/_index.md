@@ -1,6 +1,7 @@
 ---
 title: "Team"
 show_lastmod: true
+lastmod: 2023-01-25
 hide_reading_time: true
 ---
 

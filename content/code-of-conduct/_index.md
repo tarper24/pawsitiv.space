@@ -1,6 +1,7 @@
 ---
 title: "Code of Conduct"
 show_lastmod: true
+lastmod: 2023-01-22
 ---
 
 This document establishes the guidelines for participating in the Pawsitiv Space community (The "Community"). Its purpose is to ensure the safety and well-being of all members and visitors of the Community (The "Members") and foster a welcoming, positive, and inclusive environment for everyone.
